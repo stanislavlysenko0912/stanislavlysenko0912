@@ -1,7 +1,7 @@
 ## Hi, I'm Stanislav 👋
 
 ⚡ Senior Code Commenter & Professional Ctrl+C/Ctrl+V Engineer  
-🔍 Bug Creator with 3 years of experience in turning coffee into code  
+🔍 Bug Creator with 5 years of experience in turning coffee into code  
 🎯 Specialized in making infinite loops accidentally finite
 
 ### My tech stack:
